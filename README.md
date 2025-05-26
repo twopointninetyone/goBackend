@@ -11,6 +11,6 @@ type request struct {
     SessionKey string `json:"sessionKey"`
 }
 ```
-Password is required for login/registration
-SessionKey is required for other user actions
-(Only one of them is needed)
+Password is required for login/registration \n
+SessionKey is required for other user actions \n
+(Only one of them is needed) \n
